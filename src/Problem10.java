@@ -1,6 +1,6 @@
 
 public class Problem10 {
-	private static final int LENGTH = 35;
+	private static final int LENGTH = 20;
 	
 	private static String randomString(int length) {
 		StringBuilder sb = new StringBuilder();
